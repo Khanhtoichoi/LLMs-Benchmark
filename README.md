@@ -15,7 +15,7 @@ HumanEval is the dataset of hand-written problems, developed by OpenAI for purpo
 - **Target:** Programming tasks in the HumanEval dataset assess language comprehension, reasoning, algorithms and simple mathematics. We can evaluate the functional correctness and measure the problem-solving capabilities of LLMs.
 - **Example:**
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/12a72466-d1d9-4c53-9d23-dea80619583f/bc7b9879-9ae3-4780-9729-5dee6ef7dbe6/image.png)
+![Uploading image.png…]()
 
 ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/12a72466-d1d9-4c53-9d23-dea80619583f/4dde8055-036b-48fd-a339-91d382b2d165/image.png)
 
